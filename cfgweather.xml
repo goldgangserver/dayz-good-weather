@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<weather reset="1" enable="1">
+    <overcast>
+        <limits min="0.0" max="0.0" />
+    </overcast>
+    <fog>
+        <limits min="0.0" max="0.0" />
+    </fog>
+</weather>
